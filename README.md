@@ -1,13 +1,12 @@
 ### Hi There. I am Siabsish 🤗.
 
-My name is Sibasish Mohanty. I am a passionate self-taught UI/UX designer and front-end web developer based in Bangalore, India.
-I have keen interest in learning and mastering latest trends of web developemnt in general and JavaScript in particular.
+My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and front-end web developer based in Bangalore, India.<br />I have a keen interest in learning and mastering the latest trends in web development in general and JavaScript in particular.
 
 ### What am I upto?
 
 - 🛠️ I am currently building [my piece of the internet](https://sibasish-me.vercel.app) and a fun word game.
 - 📖 I am currently learning Next.js and TypeScript.
-- 💌 My current favourite tech stack includes [next](https://nextjs.org), [tailwindcss](https://tailwindcss.com), [react-query](https://react-query.tanstack.com), [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro) and [vercel](https://vercel.com).
+- 💌 My current favorite tech stack includes [next](https://nextjs.org), [tailwindcss](https://tailwindcss.com), [react-query](https://react-query.tanstack.com), [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro), and [vercel](https://vercel.com).
 - 🎯 I am trying to improve my writing skills and be good at chess by the end of 2020.
 
 ### Where can you find me?
