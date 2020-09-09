@@ -23,7 +23,7 @@ My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and f
   <img align="left" alt="Sibasish Mohanty on Behance" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111478.svg" />
 </a>
 
-<a href="https://stackoverflow.com/sibasish-mohanty">
+<a href="https://stackoverflow.com/users/9128145/sibasishm">
   <img align="left" alt="Sibasish Mohanty on Stack Overflow" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111806.svg" />
 </a>
 <br />
