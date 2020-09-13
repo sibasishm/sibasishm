@@ -1,4 +1,4 @@
-### Hi There. I am Siabsish 🤗.
+### Hi There. I am Sibasish 🤗.
 
 My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and front-end web developer based in Bangalore, India.<br />I have a keen interest in learning and mastering the latest trends in web development in general and JavaScript in particular.
 
