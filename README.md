@@ -32,3 +32,5 @@ My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and f
 ### My github stats 💻
 
 <img align="left" alt="Github Stats of sibasishm" src="https://github-readme-stats.codestackr.vercel.app/api?username=sibasishm&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" />
+
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibasishm&row=2&column=3" alt="sibasishm github trophy" /></a></p>
