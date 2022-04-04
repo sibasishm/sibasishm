@@ -10,21 +10,6 @@ My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and f
 - 🎯 I am trying to improve my writing skills and be good at chess by the end of 2020.
 
 ### Where can you find me?
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.instagram.com/abhishknads/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 <a href="https://twitter.com/smsibasish">
   <img align="left" alt="Sibasish Mohanty on Twitter" width="30px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />
@@ -45,6 +30,8 @@ My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and f
 <br/>
 
 ### My github stats 💻
+
+![](https://visitor-badge.glitch.me/badge?page_id=sibasishm.sibasishm)
 
 <img align="left" alt="Github Stats of sibasishm" src="https://github-readme-stats.vercel.app/api?theme=gotham&username=sibasishm&count_private=true&show_icons=true&hide_border=true&include_all_commits=true" />
 
