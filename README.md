@@ -4,7 +4,7 @@ My name is Sibasish Mohanty. I am a passionate, self-taught UI/UX designer and f
 
 ### What am I upto?
 
-- 🛠️ I am currently building [my piece of the internet](https://sibasish-me.vercel.app) and a fun word game.
+- 🛠️ I am currently building [my piece of the internet](https://www.sibas.in/) and a fun word game.
 - 📖 I am currently learning Next.js and TypeScript.
 - 💌 My current favorite tech stack includes [next](https://nextjs.org), [tailwindcss](https://tailwindcss.com), [react-query](https://react-query.tanstack.com), [@testing-library/react](https://testing-library.com/docs/react-testing-library/intro), and [vercel](https://vercel.com).
 - 🎯 I am trying to improve my writing skills and be good at chess by the end of 2020.
