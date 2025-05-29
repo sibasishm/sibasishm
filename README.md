@@ -1,8 +1,6 @@
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sibasishm.sibasishm) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sibasishm) 
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px"> Hey, I'm Sibasish
 
-## 👋 Hey, I'm Sibasish
-
-I'm a curious frontend engineer who loves building things that make a difference. I thrive on continuous learning and kindness.
+I'm a frontend engineer who loves building things that make a difference. I am exceptionally enthusiastic about learning new technology & take great pride in my ability to pick up skills swiftly. I thrive on continuous learning and kindness.
 
 ---
 
@@ -21,19 +19,13 @@ I'm always looking to expand my knowledge and perspective. Some of the books I'm
 
 ---
 
-### 🛠️ Tech Stack
+### 📈 Stats
 
-- **Languages:** TypeScript, JavaScript, Go
-- **Frameworks:** React, Next.js, Vue, Tailwind CSS
-- **Tools:** GitHub Actions, Docker, Vercel
-- **Databases:** PostgreSQL, Supabase
-- **Others:** Storybook, Vitest, TanStack
-
----
-
-### 📈 GitHub Stats
-
-![Sibasish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sibasishm&show_icons=true&theme=radical)
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=sibasishm&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="sibasishm github profile trophies" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api?username=sibasishm&show_icons=true&hide_border=true" alt="Sibasish Mohanty's GitHub Stats">
+</div>
 
 ---
 
